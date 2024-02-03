@@ -9,5 +9,10 @@ public class catepillar {
 		this.moves=moves;
 		this.cabagge=cabbages;
 	}
+	
+	
+	int moves() {
+		return moves;
+	}
 
 }
